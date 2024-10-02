@@ -1,0 +1,16 @@
+/* src/pages/Lists.css */
+.lists-container {
+    flex: 1;
+    padding: 20px;
+    background-color: #121212; /* Fundo escuro */
+    color: #ffffff; /* Texto claro */
+    display: flex; /* Define o contêiner como flexível */
+    flex-direction: column; /* Permite que os filhos se alinhem verticalmente */
+    align-items: center; /* Centraliza os filhos horizontalmente */
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center; /* Centraliza o texto dentro do h1 */
+}

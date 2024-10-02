@@ -1,0 +1,21 @@
+/* src/App.css */
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif; /* Fonte da aplicação */
+    background-color: #121212; /* Cor de fundo da aplicação */
+    color: #ffffff; /* Texto em branco */
+}
+
+h1, h2, h3, h4 {
+    color: #ffffff; /* Cores dos títulos */
+}
+
+a {
+    color: #ffffff; /* Cores dos links */
+    text-decoration: none; /* Sem sublinhado */
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinhado ao passar o mouse */
+}

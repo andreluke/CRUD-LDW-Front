@@ -1,0 +1,33 @@
+.user-lists-display {
+    padding: 20px;
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.user-lists-display h2 {
+    text-align: center;
+}
+
+.user-lists-display ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.user-lists-display li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #1e1e1e;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.user-lists-display .list-display {
+    margin-top: 20px;
+    background-color: #1e1e1e;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.user-lists-display .list-display h3 {
+    margin-bottom: 10px;
+}

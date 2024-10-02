@@ -1,0 +1,12 @@
+/* src/pages/Home.css */
+.home-container {
+    padding: 20px;
+    background-color: #121212; /* Fundo escuro */
+    color: #ffffff; /* Texto claro */
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
